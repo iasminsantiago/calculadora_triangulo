@@ -1,4 +1,4 @@
-# 🔺 Calculadora de triângulos 🔺 (3.11 Alura)
+# 🔺 Calculadora de triângulos 🔺 
 O programa pede ao usuário 3 números que representam os lados de um triângulo e o informa se os valores podem ser utilizados para formar um triângulo. 
 Caso afirmativo, indica se é equilátero, isósceles ou escaleno.
 
@@ -6,3 +6,6 @@ Caso afirmativo, indica se é equilátero, isósceles ou escaleno.
 - Triângulo Equilátero: três lados iguais;
 - Triângulo Isósceles: quaisquer dois lados iguais;
 - Triângulo Escaleno: três lados diferentes.
+
+
+ref.: 3.11 Alura
